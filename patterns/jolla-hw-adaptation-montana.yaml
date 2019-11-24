@@ -14,6 +14,7 @@ Requires:
 - droid-config-montana-flashing
 - droid-config-montana-bluez5
 - droid-hal-version-montana
+- droid-hal-montana-detritus
 
 # Hybris packages
 - libhybris-libEGL
