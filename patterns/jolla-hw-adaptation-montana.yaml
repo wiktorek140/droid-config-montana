@@ -14,7 +14,6 @@ Requires:
 - droid-config-montana-flashing
 - droid-config-montana-bluez5
 - droid-hal-version-montana
-- droid-hal-montana-detritus
 
 # Hybris packages
 - libhybris-libEGL
@@ -80,8 +79,8 @@ Requires:
 #- jolla-mediaplayer-radio
 
 # NFC for devices using Android 8 or newer as base
-#- nfcd-binder-plugin
-#- jolla-settings-system-nfc
+- nfcd-binder-plugin
+- jolla-settings-system-nfc
 
 Summary: Jolla HW Adaptation montana
 
